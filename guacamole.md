@@ -6,4 +6,6 @@
 *salt (2.0)
 
 ## Instructions
-*peal the avocados 
+
+*peal the avocados and put them into a bowl
+
