@@ -6,4 +6,4 @@
 *salt (2.0)
 
 ## Instructions
-
+* put one avocado in a bowl
